@@ -1,0 +1,15 @@
+body{
+	background-color: 666666;
+	font-size: 1.2em;
+}
+
+.wrapper{
+    width: 70em;
+    margin: 100 auto;
+    background-color: white;
+}
+
+.header-top{
+	text-align: center;
+	margin: 0 auto;
+}

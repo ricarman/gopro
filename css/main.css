@@ -1,0 +1,38 @@
+/** Variables **/
+/** Texte **/
+body {
+  font: 1.4375em / 1.5em Georgia, Serif;
+  color: #1d1f20;
+  margin: 0 0;
+}
+.titre {
+  color: white;
+}
+h1,
+h2 {
+  font-size: 3em;
+  font-weight: bold;
+  line-height: 1.2em;
+  margin-bottom: 1em;
+}
+h2 {
+  font-size: 2em;
+}
+p {
+  margin-bottom: 1.5em;
+}
+.article-principal {
+  margin: 0 200;
+}
+.header-top {
+  text-align: center;
+  margin: 0 auto;
+}
+.banner {
+  background-color: black;
+}
+/** Liens **/
+.link {
+  color: #0000ff;
+}
+/*# sourceMappingURL=main.css.map */
